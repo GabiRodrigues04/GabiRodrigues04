@@ -3,7 +3,7 @@
 - 📚 Sou estudante de Ciência da computação
 - 💻 Atualmente estudando desenvolvimento WEB
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiRodrigues04&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiRodrigues04&show_icons=true&theme=tokyonight) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiRodrigues04&hide_progress=true)
 
 <!-- <div style="display: inline-block"><br>
