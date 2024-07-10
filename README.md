@@ -1,9 +1,14 @@
-### Olá, me chamo Gabriela 😄👋
+### HI, i'm Gabriela 😄👋
 
-- 📚 Sou estudante do terceiro semestre de Ciência da computação
-- 💻 Atualmente estudando desenvolvimento WEB
+- 📚 I'm studying the fourth period of computer science!
+- 💻🌐 I'm mainly practicing web development with HTML/CSS, JS and PHP
+- ⌨️🖱️ But I've been studying C#, .NET and SQL too
+- 🐱 Learning code versioning technologies
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiRodrigues04)](https://github.com/GabiRodrigues04/github-readme-stats)
+ <h2>This profile for now is a safe area for my development in technology, with my studies, training and projects ! 😀</h2>
+
+
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiRodrigues04)](https://github.com/GabiRodrigues04/github-readme-stats)
 
 <!--
 
