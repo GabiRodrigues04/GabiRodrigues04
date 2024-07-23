@@ -3,7 +3,7 @@
 - 📚 I'm studying the fourth period of computer science!
 - 💻🌐 I'm mainly practicing web development with HTML/CSS, JS and PHP
 - ⌨️🖱️ But I've been studying C#, .NET and SQL too
-- 🐱 Learning code versioning technologies
+- 🐱 Learning code versioning and database technologies
 
  <h2>This profile for now is a safe area for my development in technology, with my studies, training and projects ! 😀</h2>
 
