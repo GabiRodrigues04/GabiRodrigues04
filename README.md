@@ -5,8 +5,6 @@
 - ⌨️🖱️ But I've been studying C#, .NET and SQL too
 - 🐱 Learning code versioning and database technologies
 
- <h2>This profile for now is a safe area for my development in technology, with my studies, training and projects ! 😀</h2>
-
 <br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiRodrigues04&theme=blue-green)
 
 <br>![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
