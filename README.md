@@ -1,37 +1,48 @@
-### HI, i'm Gabriela 😄👋
+<h1 align="center">
+  Hi, there! i'm Gabriela 👩👋
+  <br>
+</h1>
+<h3 align="center"> 
+  i'm a beginner fullstack dev!
+  <br>
+</h3>
 
-- 📚 I'm studying the fourth period of computer science!
-- 💻🌐 I'm mainly practicing web development with HTML/CSS, JS and PHP
-- ⌨️🖱️ But I've been studying C#, .NET and SQL too
-- 🐱 Learning code versioning and database technologies
+<h1 align="center">
 
-<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiRodrigues04&theme=blue-green)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiRodrigues04&theme=blue-green)
+  
+  -- Tools and technologies --
+  <br>
+</h1>
+<h1 align="center">
+<div style="display:inline"> 
+     <img width ="80" height= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+     <img width ="80" height= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+     <img width ="80" height= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+     <img width ="80" height= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+</div>
+</h1>
+<h1 align="center">
+  <div style="display:inline">
+       <img width ="80" height= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+       <img width ="80" height= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+       <img width ="80" height= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+       <img width ="80" height= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  </div>
+</h1>
+<h1 align="center">
+<div style="display:inline">
+     <img width ="100" height= "100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+     <img width ="80" height= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+     <img width ="90" height= "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+     <img width ="100" height= "100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />   
+</div>
+</h1>
+          
+          
 
-<br>![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![BS](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![c-sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![sqlserver](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-<!--
-
-**GabiRodrigues04/GabiRodrigues04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
+          
+          
+      
 
