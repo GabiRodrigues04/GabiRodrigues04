@@ -12,6 +12,7 @@
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiRodrigues04&theme=blue-green)
   
   -- Tools and technologies --
+  <br>that i'm learning :
   <br>
 </h1>
 <h1 align="center">
