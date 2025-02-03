@@ -3,7 +3,7 @@
   <br>
 </h1>
 <h3 align="center"> 
-  i'm a beginner fullstack dev!
+  i'm a beginner fullstack dev, and a Software Developer Intern !
   <br>
 </h3>
 
@@ -25,7 +25,7 @@
 </h1>
 <h1 align="center">
   <div style="display:inline">
-       <img width ="80" height= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+       <img width ="90" height= "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
        <img width ="80" height= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
        <img width ="80" height= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
        <img width ="80" height= "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
