@@ -3,7 +3,7 @@
   <br>
 </h1>
 <h3 align="center"> 
-  i'm a beginner fullstack dev, and a Software Developer Intern !
+  i'm a beginner fullstack dev and a Software Developer Intern !
   <br>
 </h3>
 
